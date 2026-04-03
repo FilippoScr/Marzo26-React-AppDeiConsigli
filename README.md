@@ -1,38 +1,40 @@
 <h1 align="center">
-  <a href="https://filipposcr.github.io/Marzo26-React-AppDeiConsigli/">
-    📱 App dei Consigli! ✨
-  </a>
+    <a href="https://filipposcr.github.io/Marzo26-React-AppDeiConsigli/">
+        📱 App dei Consigli! ✨
+    </a>
 </h1>
 
-## 📖 Questa applicazione è il risultato dei primi 2 esercizi di React assegnati durante il mio quarto corso formativo di Front-End Web Development.
+<div align="center">
 
-### 📂 All’interno della repository sono presenti due versioni distinte del progetto:
+<h3>📖 Questa applicazione è il risultato dei primi 2 esercizi di React assegnati durante il mio quarto corso formativo di Front-End Web Development.</h3>
 
-**1. reactapp1-v1**  
-Versione minimale, sviluppata utilizzando le props.  
-È il risultato del primo esercizio.
+<h4>📂 All’interno della repository sono presenti due versioni distinte del progetto:</h4>
+<p><strong>1. reactapp1-v1</strong></p>
+<p>Versione minimale, sviluppata utilizzando le props.
+È il risultato del primo esercizio.</p>
 
-**2. reactapp2-v2Complete**  
-Versione completa e migliorata.  
-Può essere visitata e testata direttamente dal browser cliccando sul titolo blu in alto.
+<p><strong>2. reactapp2-v2Complete</strong></p>
+<p>Versione completa e migliorata.
+Può essere visitata e testata direttamente dal browser cliccando sul titolo blu in alto.</p>
+<br>
 
----
+<h4>🧰 Come ho lavorato alla seconda versione:</h4>
+<p>Per comprendere meglio le differenze richieste tra i due esercizi, ho adottato la tecnica “copia e rivoluziona”, inizialmente ho duplicato la prima versione e successivamente ho applicato le modifiche necessarie per completare tutti i punti del secondo esercizio.</p>
 
-### 🧰 Come ho lavorato alla seconda versione
-Per comprendere meglio le differenze richieste tra i due esercizi, ho adottato la tecnica “copia e rivoluziona”:  
-ho duplicato la prima versione e successivamente ho applicato tutte le modifiche necessarie per completare i punti del secondo esercizio.
+<h4>🛠️ Principali modifiche e implementazioni:</h4>
+<p>• Utilizzo della Context API al posto delle props (con conseguente riorganizzazione del codice).
+• Creazione di un componente contenitore flessibile tramite la prop children.
+• Creazione di un HOC (Higher Order Component) per limitare il numero di elementi visualizzabili in una lista.
+</p>
+<br>
 
-### 🛠️ Principali modifiche e implementazioni
-• Utilizzo della Context API al posto delle props  
-• Creazione di un componente contenitore flessibile tramite la prop children  
-• Creazione di un HOC per limitare gli elementi visualizzabili in una lista  
+<h4>⚙️ Ulteriori componenti e logiche presenti:</h4>
+<p>• Campo di input per aggiungere nuovi consigli alla lista dei consigli salvabili.
+• Controlli e avvisi testuali che guidano l’utente nell’uso corretto dell’applicazione.
+• Blocco basico dell’inserimento di consigli già presenti nella lista dei consigli salvati.
+• Visualizzazione in console del ciclo di vita del componente relativo alla lista dei consigli ricevuti, mostrando la cronologia dei consigli inseriti e/o rimossi.</p>
 
-### ⚙️ Ulteriori componenti e logiche presenti
-• Campo di input per aggiungere nuovi consigli  
-• Controlli e avvisi testuali  
-• Blocco dell’inserimento di consigli duplicati  
-• Log del ciclo di vita del componente in console  
+<hr>
 
----
-
-#### 👍 Grazie per l'interesse dimostrato 🎩
+<h4>👍 Grazie per l'interesse dimostrato. 🎩</h4>
+</div>
