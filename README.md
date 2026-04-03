@@ -3,14 +3,13 @@
 <div align="center">
 
 ## 📖 Questa applicazione è il risultato dei primi 2 esercizi di React assegnati durante il mio quarto corso formativo di Front-End Web Development.
-<br>
 
 ### 📂 All’interno della repository sono presenti due versioni distinte del progetto:
-1. reactapp1-v1
+1) reactapp1-v1
 Versione minimale, sviluppata utilizzando le props.
 È il risultato del primo esercizio.
 
-2. reactapp2-v2Complete
+2) reactapp2-v2Complete
 Versione completa e migliorata.
 Può essere visitata e testata direttamente dal browser cliccando sul titolo blu in alto.
 <br>
@@ -39,7 +38,7 @@ inizialmente ho duplicato la prima versione e successivamente ho applicato le mo
 
 • Visualizzazione in console del ciclo di vita del componente relativo alla lista dei consigli ricevuti, mostrando la cronologia dei consigli inseriti e/o rimossi.
 
-----
+------
 
 #### 👍 Grazie per l'interesse dimostrato. 🎩
 </div>
