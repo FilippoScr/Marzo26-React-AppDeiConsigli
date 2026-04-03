@@ -26,7 +26,7 @@ div {
 }
 
 .ricevuti{
-  background: #b3c00083;
+  background: #b3c000a1;
   border-radius: 14px;
 }
 
@@ -60,10 +60,10 @@ button:disabled, input:disabled {
 
 /* Messaggi di avviso */
 .warning {
-  color: orange;
+  color: #ffee00;
   font-weight: bold;
   text-align: center;
-  text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.5);
+  text-shadow: 0px 0px 7px black;
 }
 
 /* Liste */
