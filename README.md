@@ -1,4 +1,8 @@
-<div align="center"><h1><a href="https://filipposcr.github.io/Marzo26-React-AppDeiConsigli/">📱 App dei Consigli! ✨</a></h1>
+<h1 align="center">
+<a href="https://filipposcr.github.io/Marzo26-React-AppDeiConsigli/">📱 App dei Consigli! ✨</a>
+</h1>
+
+<div align="center">
 
 ### 📖 Questa applicazione è il risultato dei primi 2 esercizi di React assegnati durante il mio quarto corso formativo di Front-End Web Development.
 <br>
