@@ -1,19 +1,18 @@
-<h1 align="center">
-    <a href="https://filipposcr.github.io/Marzo26-React-AppDeiConsigli/">
-        📱 App dei Consigli! ✨
-    </a>
-</h1>
-
 <div align="center">
 
+<h1>
+    <a href="https://filipposcr.github.io/Marzo26-React-AppDeiConsigli/">📱 App dei Consigli! ✨</a>
+</h1>
+
 ### 📖 Questa applicazione è il risultato dei primi 2 esercizi di React assegnati durante il mio quarto corso formativo di Front-End Web Development.
+<br>
 
 #### 📂 All’interno della repository sono presenti due versioni distinte del progetto:
-##### 1. reactapp1-v1
+**1. reactapp1-v1**
 Versione minimale, sviluppata utilizzando le props.
 È il risultato del primo esercizio.
 
-##### 2. reactapp2-v2Complete
+**2. reactapp2-v2Complete**
 Versione completa e migliorata.
 Può essere visitata e testata direttamente dal browser cliccando sul titolo blu in alto.
 <br>
