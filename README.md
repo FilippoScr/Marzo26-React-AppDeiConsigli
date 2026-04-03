@@ -29,7 +29,7 @@ Per comprendere meglio le differenze richieste tra i due esercizi, ho adottato l
 <br>
 <br>
 
-#### ⚙️ Ulteriori componenti e logiche presenti:
+<h4>⚙️ <span style="color: green">Ulteriori componenti e logiche presenti:</span></h4>
 • Campo di input per aggiungere nuovi consigli alla lista dei consigli salvabili.  
 • Controlli e avvisi testuali che guidano l’utente nell’uso corretto dell’applicazione.  
 • Blocco basico dell’inserimento di consigli già presenti nella lista dei consigli salvati.  
